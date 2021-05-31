@@ -11,5 +11,5 @@ function countDown(posInteger) {
     console.log(posInteger);
     posInteger -= 1;
   }
-  
+  console.log(posInteger)
 }
