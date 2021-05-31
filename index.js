@@ -6,3 +6,8 @@ function writeCards(names, event) {
   return completeCards
 }
 
+function countDown(posInteger) {
+  i = 0;
+  while (i < posInteger.length)
+  co
+}
