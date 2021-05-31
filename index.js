@@ -9,7 +9,7 @@ function writeCards(names, event) {
 function countDown(posInteger) {
   while (posInteger > 0) {
     console.log(posInteger);
-    posInteger += 1
+    posInteger -= 1;
   }
   
 }
